@@ -51,9 +51,9 @@ goto :eof
        \ ~_   (  -'  ( ;_ ,.
         L~"'_.    -.  \ ./  )
         ,'-' '-._  _;  )'   (
-      .' .'   _.'")  \  \(  | @Bornelabs bat files 
-     /  (  .-'   __\{`', \  |  www.bornelabs.tech
-    / .'  /  _.-'   "  ; /  |     Wifi-Gollumn
+      .' .'   _.'")  \  \(  | @Bornelabs papers 
+     /  (  .-'   __\{`', \  |    Wifi-Gollumn
+    / .'  /  _.-'   "  ; /  |    
    / /    '-._'-,     / / \ (
  __/ (_    ,;' .-'    / /  /_'-._
 `"-'` ~`  ccc.'   __.','     \j\L\
