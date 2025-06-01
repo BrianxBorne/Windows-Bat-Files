@@ -8,7 +8,7 @@ set "print="
 for /f "usebackq delims=" %%A in ("%~f0") do (
     if "%%A"=="::ascii" (
         set "print=1"
-        rem skip this line
+        rem 
     ) else if "%%A"=="::endascii" (
         set "print="
     ) else (
